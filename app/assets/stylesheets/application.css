@@ -23,11 +23,11 @@
 }
 
 .article-header {
-  color: #337ab7 ;
+  color:#6c757d;
   text-decoration: none;
 }
 .article-header:hover {
-  color: #337ab7 ;
+  color: #586066;
   text-decoration: none;
 }
 
@@ -57,4 +57,12 @@ article {
 
 .delete {
   text-decoration: none;
+}
+
+h2, h1 {
+  color:#4a5055;
+}
+
+p {
+  color:#6c757d;
 }
