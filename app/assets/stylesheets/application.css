@@ -23,11 +23,11 @@
 }
 
 .article-header {
-  color:#6c757d;
+  color:lightblue;
   text-decoration: none;
 }
 .article-header:hover {
-  color: #586066;
+  color: blue;
   text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ article {
 }
 
 h2, h1 {
-  color:#4a5055;
+  color:blue;
 }
 
 p {
